@@ -1,6 +1,6 @@
-JS-tidbits
+JS and JQUERY-tidbits
 ==========
 
-Assorted javascript creations
+Assorted javascript and jquery creations
 
 coming soon!!!
